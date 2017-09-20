@@ -1,5 +1,5 @@
 # whatever-loader
-Load whatever u wanna loader with webpack.
+Loading whatever u wanna load with webpack.
 
 
 ## Install
@@ -9,7 +9,7 @@ npm install --save-dev whatever-loader
 
 ## Usage
 
-The `whatever-loader` can loader whatever file to your program, you will get the file content.
+The `whatever-loader` can load whatever file to your program, you will get the file content.
 
 **file.js**
 
