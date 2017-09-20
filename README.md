@@ -3,7 +3,7 @@ Load whatever u wanna loader with webpack.
 
 
 ## Install
-```
+```bash
 npm install --save-dev whatever-loader
 ```
 
@@ -13,7 +13,7 @@ The `whatever-loader` can loader whatever file to your program, you will get the
 
 **file.js**
 
-```
+```js
 import tpl from 'file.tpl';
 
 import json from 'json-file.json';
@@ -24,7 +24,7 @@ import conf from 'config.conf';
 
 **webpack.config.js**
 
-```
+```js
 module.exports = {
   module: {
     rules: [
