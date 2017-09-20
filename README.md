@@ -11,7 +11,7 @@ npm install --save-dev whatever-loader
 
 The `whatever-loader` can loader whatever file to your program, you will get the file content.
 
-** file.js **
+**file.js**
 
 ```
 import tpl from 'file.tpl';
@@ -22,7 +22,7 @@ import conf from 'config.conf';
 ```
 
 
-** webpack.config.js **
+**webpack.config.js**
 
 ```
 module.exports = {
