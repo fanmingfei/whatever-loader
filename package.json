@@ -1,6 +1,6 @@
 {
   "name": "whatever-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Load whatever u wanna loader with webpack.",
   "main": "index.js",
   "scripts": {
